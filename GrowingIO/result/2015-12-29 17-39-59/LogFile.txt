@@ -1,0 +1,44 @@
+2015-12-29 17:40:20 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2015-12-29 17:40:21 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2015-12-29 17:40:22 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:22 - [Send Keys] - [testbot@growingio.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:22 - [Send Keys] - [eXTXTKVuv6ChtqVJ] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:22 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-29 17:40:23 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2015-12-29 17:40:26 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2015-12-29 17:40:27 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2015-12-29 17:40:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2015-12-29 17:40:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2015-12-29 17:40:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2015-12-29 17:40:30 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2015-12-29 17:40:30 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2015-12-29 17:40:31 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2015-12-29 17:40:32 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:33 - [Send Keys] - [testbot@growingio.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:33 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:33 - [Send Keys] - [eXTXTKVuv6ChtqVJ] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:33 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-29 17:40:34 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2015-12-29 17:40:34 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-29 17:40:35 - [Send Keys] - [testbot@growingio.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-29 17:40:36 - [Send Keys] - [eXTXTKVuv6ChtqVJ] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:36 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-29 17:40:38 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:测试机器人
+一线员工}]
+2015-12-29 17:40:40 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:项目管理}]
+2015-12-29 17:40:41 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:添加}]
+2015-12-29 17:40:41 - [Send Keys] - [你好] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:42 - [Click] - [null] - [{TagName:input}; {ID:ios}; {Text:}]
+2015-12-29 17:40:42 - [Send Keys] - [www.nihao.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-29 17:40:42 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:确认添加}]
+2015-12-29 17:40:43 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:邀请成员}]
+2015-12-29 17:40:43 - [Send Keys] - [xiaolong.chen@dalitoit.com] - [{TagName:textarea}; {ID:}; {Text:}]
+2015-12-29 17:41:07 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: RemoteWebDriver
+2015-12-29 17:41:07 - ==============================
+2015-12-29 17:41:08 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: FirefoxDriver

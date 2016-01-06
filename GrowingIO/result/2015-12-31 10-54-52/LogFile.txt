@@ -1,0 +1,47 @@
+2015-12-31 10:55:51 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2015-12-31 10:55:52 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2015-12-31 10:55:53 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:55:53 - [Send Keys] - [xiaolong.chen@dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:55:54 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:55:54 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-31 10:55:55 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2015-12-31 10:56:11 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2015-12-31 10:56:12 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2015-12-31 10:56:14 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2015-12-31 10:56:14 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2015-12-31 10:56:15 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2015-12-31 10:56:15 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2015-12-31 10:56:16 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2015-12-31 10:56:17 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2015-12-31 10:56:18 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:56:19 - [Send Keys] - [xiaolong.chen@dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:56:19 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:56:19 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:56:19 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-31 10:56:21 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2015-12-31 10:56:21 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-31 10:56:22 - [Send Keys] - [xiaolong.chen@dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-31 10:56:22 - [Send Keys] - [ddddddd] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:56:22 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-31 10:56:23 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-31 10:56:24 - [Send Keys] - [xiaolong.chen@dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:56:25 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2015-12-31 10:56:57 - [Send Keys] - [xiaolong.chen@dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2015-12-31 10:56:57 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2015-12-31 10:56:57 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:56:59 - [Text] - [https://www.growingio.com/passwords/eivQTMX2ZIoGtZkK  ] - [{TagName:div}; {ID:}; {Text:https://www.growingio.com/passwords/eivQTMX2ZIoGtZkK  }]
+2015-12-31 10:57:00 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:57:00 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:57:00 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:重设密码}]
+2015-12-31 10:57:01 - [Send Keys] - [xiaolong.chen@dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-31 10:57:02 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-31 10:57:02 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-31 10:57:27 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: RemoteWebDriver
+2015-12-31 10:57:27 - ==============================
+2015-12-31 10:57:28 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: FirefoxDriver

@@ -1,0 +1,66 @@
+2016-01-04 12:48:06 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2016-01-04 12:48:07 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2016-01-04 12:48:08 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:08 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:08 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:08 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2016-01-04 12:48:09 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2016-01-04 12:48:13 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2016-01-04 12:48:14 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2016-01-04 12:48:16 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2016-01-04 12:48:16 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2016-01-04 12:48:16 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2016-01-04 12:48:16 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2016-01-04 12:48:17 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2016-01-04 12:48:18 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2016-01-04 12:48:19 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:19 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:20 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:20 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:20 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2016-01-04 12:48:21 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2016-01-04 12:48:21 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2016-01-04 12:48:22 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2016-01-04 12:48:22 - [Send Keys] - [ddddddd] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:23 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-04 12:48:24 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2016-01-04 12:48:25 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:25 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2016-01-04 12:48:57 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2016-01-04 12:48:57 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2016-01-04 12:48:58 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:48:59 - [Text] - [https://www.growingio.com/passwords/YcUq1WcAfQAIb4nw  ] - [{TagName:div}; {ID:}; {Text:https://www.growingio.com/passwords/YcUq1WcAfQAIb4nw  }]
+2016-01-04 12:49:01 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:49:01 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:49:01 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:重设密码}]
+2016-01-04 12:49:02 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2016-01-04 12:49:03 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:49:03 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-04 12:49:06 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:小龙Test}]
+2016-01-04 12:49:08 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:项目管理}]
+2016-01-04 12:49:09 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:添加}]
+2016-01-04 12:49:09 - [Send Keys] - [你好] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:49:10 - [Click] - [null] - [{TagName:input}; {ID:ios}; {Text:}]
+2016-01-04 12:49:10 - [Send Keys] - [www.nihao.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:49:10 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:确认添加}]
+2016-01-04 12:49:11 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:邀请成员}]
+2016-01-04 12:49:11 - [Send Keys] - [xiaolong.chen@dalitoit.com] - [{TagName:textarea}; {ID:}; {Text:}]
+2016-01-04 12:49:12 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:下一步}]
+2016-01-04 12:49:12 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2016-01-04 12:49:16 - [Send Keys] - [xiaolong.chen@dilatoit.com] - [{TagName:input}; {ID:accname}; {Text:}]
+2016-01-04 12:49:16 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:accpwd}; {Text:}]
+2016-01-04 12:49:16 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-04 12:49:48 - Unable to locate element: {"method":"xpath","selector":".//*[@id='_mail_component_35_35']"}
+Command duration or timeout: 31.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.92', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=.//*[@id='_mail_component_35_35']}
+Session ID: 4f7d6e20-9038-42b3-bd8f-3131c83d4c6a
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2016-01-04 12:49:48 - ==============================
+2016-01-04 12:49:48 - Current URL: http://qiye.163.com/login/?hl=zh_CN&msg=ERR.LOGIN.DOMAINNOTEXIST&from=hz
+2016-01-04 12:49:48 - Error Screenshot:result\2016-01-04 12-46-04\Screenshot\2016-01-04 12-49-48.png
+2016-01-04 12:49:48 - ==============================
+2016-01-04 12:49:48 - WebElement not found, Could not operate on an not existing element!

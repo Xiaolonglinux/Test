@@ -1,0 +1,2 @@
+2016-01-04 14:11:16 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2016-01-04 14:11:17 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]

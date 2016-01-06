@@ -1,0 +1,43 @@
+<div class="story">
+<h1></h1>
+<div class="path">growingIOTestcase1/GrowingIoStory.story</div>
+<div class="narrative"><h2>Narrative:</h2>
+<div class="element inOrderTo"><span class="keyword inOrderTo">In order to</span> communicate effectively to the business some functionality</div>
+<div class="element asA"><span class="keyword asA">As a</span> development team</div>
+<div class="element iWantTo"><span class="keyword iWantTo">I want to</span> use Behaviour-Driven Development</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Test GrowingIO</h2>
+<div class="examples">
+<h3>Examples:</h3>
+<div class="step">Given I has  opend '$BROWSER'</div>
+<div class="step">When I forwards to '$URL'</div>
+<div class="step">Then the browsers click login</div>
+<div class="step">Then the forgot password</div>
+<div class="step">Then the users accept the invitation</div>
+<table>
+<thead>
+<tr>
+<th>BROWSER</th><th>URL</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>ie</td><td>https://www.growingio.com</td></tr>
+</tbody>
+</table>
+
+<h3 class="example">Example: {BROWSER=ie, URL=https://www.growingio.com}</h3>
+<div class="step successful">Given I has  opend '$BROWSER'</div>
+<div class="step successful">When I forwards to '$URL'</div>
+<div class="step failed">Then the browsers click login <span class="keyword failed">(FAILED)</span><br/><span class="message failed">org.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.92', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 2d8e2927-b4f0-4942-b34a-3974e8f666e4
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=11, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=true, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:7535/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]</span></div>
+<div class="step notPerformed">Then the forgot password <span class="keyword notPerformed">(NOT PERFORMED)</span></div>
+<div class="step notPerformed">Then the users accept the invitation <span class="keyword notPerformed">(NOT PERFORMED)</span></div>
+</div>
+</div>
+</div>

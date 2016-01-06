@@ -1,0 +1,67 @@
+2016-01-04 12:52:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2016-01-04 12:52:31 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2016-01-04 12:52:31 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:32 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:32 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:32 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2016-01-04 12:52:34 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2016-01-04 12:52:37 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2016-01-04 12:52:38 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2016-01-04 12:52:39 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2016-01-04 12:52:39 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2016-01-04 12:52:40 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2016-01-04 12:52:40 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2016-01-04 12:52:40 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2016-01-04 12:52:41 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2016-01-04 12:52:42 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:43 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:43 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:43 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:44 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2016-01-04 12:52:45 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2016-01-04 12:52:45 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2016-01-04 12:52:46 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2016-01-04 12:52:47 - [Send Keys] - [ddddddd] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:47 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-04 12:52:48 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2016-01-04 12:52:50 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:52:50 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2016-01-04 12:53:22 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2016-01-04 12:53:23 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2016-01-04 12:53:23 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:53:27 - [Text] - [https://www.growingio.com/passwords/vVy74a2tHAnjDJvd  ] - [{TagName:div}; {ID:}; {Text:https://www.growingio.com/passwords/vVy74a2tHAnjDJvd  }]
+2016-01-04 12:53:27 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:53:28 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:53:28 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:重设密码}]
+2016-01-04 12:53:29 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2016-01-04 12:53:29 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:53:29 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-04 12:53:34 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:小龙Test}]
+2016-01-04 12:53:36 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:项目管理}]
+2016-01-04 12:53:37 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:添加}]
+2016-01-04 12:53:37 - [Send Keys] - [你好] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:53:37 - [Click] - [null] - [{TagName:input}; {ID:ios}; {Text:}]
+2016-01-04 12:53:38 - [Send Keys] - [www.nihao.com] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-04 12:53:38 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:确认添加}]
+2016-01-04 12:53:38 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:邀请成员}]
+2016-01-04 12:53:39 - [Send Keys] - [xiaolong.chen@dalitoit.com] - [{TagName:textarea}; {ID:}; {Text:}]
+2016-01-04 12:53:39 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:下一步}]
+2016-01-04 12:53:39 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2016-01-04 12:53:41 - [Send Keys] - [testbot@growingio.com] - [{TagName:input}; {ID:accname}; {Text:}]
+2016-01-04 12:53:42 - [Send Keys] - [MYUq7qqCN!rc4] - [{TagName:input}; {ID:accpwd}; {Text:}]
+2016-01-04 12:53:42 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-04 12:53:45 - [Click] - [null] - [{TagName:li}; {ID:_mail_component_35_35}; {Text:收 信}]
+2016-01-04 12:54:15 - Unable to locate element: {"method":"xpath","selector":".//*[@id='1451879122047_411tbiKQfl8lTbaOFwgAAsa1451879130238Dom']/div/div[1]"}
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.92', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=.//*[@id='1451879122047_411tbiKQfl8lTbaOFwgAAsa1451879130238Dom']/div/div[1]}
+Session ID: 0cc20232-eee1-46c1-9bc2-8f14f3708f27
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2016-01-04 12:54:15 - ==============================
+2016-01-04 12:54:16 - Current URL: http://mail.qiye.163.com/js6/main.jsp?sid=YAdBMNJFcbNxDbSFcmFFfBhrQysUUTXv&hl=zh_CN#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D
+2016-01-04 12:54:16 - Error Screenshot:result\2016-01-04 12-50-49\Screenshot\2016-01-04 12-54-15.png
+2016-01-04 12:54:16 - ==============================
+2016-01-04 12:54:16 - WebElement not found, Could not operate on an not existing element!

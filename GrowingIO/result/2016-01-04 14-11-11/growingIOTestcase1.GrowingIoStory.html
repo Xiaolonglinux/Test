@@ -1,0 +1,46 @@
+<div class="story">
+<h1></h1>
+<div class="path">growingIOTestcase1/GrowingIoStory.story</div>
+<div class="narrative"><h2>Narrative:</h2>
+<div class="element inOrderTo"><span class="keyword inOrderTo">In order to</span> communicate effectively to the business some functionality</div>
+<div class="element asA"><span class="keyword asA">As a</span> development team</div>
+<div class="element iWantTo"><span class="keyword iWantTo">I want to</span> use Behaviour-Driven Development</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Test GrowingIO</h2>
+<div class="examples">
+<h3>Examples:</h3>
+<div class="step">Given I has  opend '$BROWSER'</div>
+<div class="step">When I forwards to '$URL'</div>
+<div class="step">Then the browsers click login</div>
+<div class="step">Then the forgot password</div>
+<div class="step">Then the users accept the invitation</div>
+<table>
+<thead>
+<tr>
+<th>BROWSER</th><th>URL</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>chrome</td><td>https://www.growingio.com</td></tr>
+</tbody>
+</table>
+
+<h3 class="example">Example: {BROWSER=chrome, URL=https://www.growingio.com}</h3>
+<div class="step successful">Given I has  opend '$BROWSER'</div>
+<div class="step successful">When I forwards to '$URL'</div>
+<div class="step failed">Then the browsers click login <span class="keyword failed">(FAILED)</span><br/><span class="message failed">org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.92', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: a1fe9ca9a651d04e122df5a910589cd7
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9040_21176}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]</span></div>
+<div class="step notPerformed">Then the forgot password <span class="keyword notPerformed">(NOT PERFORMED)</span></div>
+<div class="step notPerformed">Then the users accept the invitation <span class="keyword notPerformed">(NOT PERFORMED)</span></div>
+</div>
+</div>
+</div>
