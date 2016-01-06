@@ -1,0 +1,47 @@
+2016-01-05 19:48:02 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2016-01-05 19:48:03 - [Send Keys] - [support2@growingio.com] - [{TagName:input}; {ID:email}; {Text:}]
+2016-01-05 19:48:03 - [Send Keys] - [yidongqa] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-05 19:48:03 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-05 19:48:15 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:概览}]
+2016-01-05 19:48:19 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:全 部}]
+2016-01-05 19:48:19 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:网 页}]
+2016-01-05 19:48:19 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:移动APP}]
+2016-01-05 19:48:19 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:iOS}]
+2016-01-05 19:48:19 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:Android}]
+2016-01-05 19:48:20 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:平均访问时长
+7天总量3.69分3.84%}]
+2016-01-05 19:48:20 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:新访问用户量
+7天总量15k}]
+2016-01-05 19:48:21 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:日活跃用户数
+7天总量64.1k2.22%}]
+2016-01-05 19:48:22 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:APP打开次数
+7天总量4.05M7.8%}]
+2016-01-05 19:48:22 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:28天}]
+2016-01-05 19:48:24 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:14天}]
+2016-01-05 19:48:25 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:7天}]
+2016-01-05 19:48:26 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:我的订阅}]
+2016-01-05 19:48:31 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-05 19:48:32 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:创建时间}]
+2016-01-05 19:48:39 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-05 19:48:39 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:名称}]
+2016-01-05 19:48:45 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-05 19:48:45 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:更新时间}]
+2016-01-05 19:48:49 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:单图}]
+2016-01-05 19:48:55 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:页面:搜索页面_浏览量
+2015/12/29 - 2016/01/04
+页面:搜索页面_浏览量30. Dec1. Jan3. Jan02.557.51012.5
+ support2 创建于: 11/30}]
+2016-01-05 19:49:26 - Unable to locate element: {"method":"xpath","selector":".//*[@id='viewport']/div[2]/div/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/span[2]/svg"}
+Command duration or timeout: 30.18 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.92', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=.//*[@id='viewport']/div[2]/div/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/span[2]/svg}
+Session ID: e2ff0569-4690-4fb8-9b21-1db957bd2ee5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2016-01-05 19:49:26 - ==============================
+2016-01-05 19:49:26 - Current URL: https://www.growingio.com/projects/OGR4bLoM/charts/all
+2016-01-05 19:49:26 - Error Screenshot:result\2016-01-05 19-46-20\Screenshot\2016-01-05 19-49-26.png
+2016-01-05 19:49:26 - ==============================
+2016-01-05 19:49:26 - WebElement not found, Could not operate on an not existing element!

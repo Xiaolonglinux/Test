@@ -1,0 +1,22 @@
+2015-12-22 17:54:05 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:–¬Œ≈}]
+2015-12-22 17:54:08 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:Ã˘∞…}]
+2015-12-22 17:54:13 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:“Ù¿÷}]
+2015-12-22 17:54:15 - [Click] - [null] - [{TagName:a}; {ID:}; {Text: ”∆µ}]
+2015-12-22 17:54:26 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:µÿÕº}]
+2015-12-22 17:54:58 - Unable to locate element: {"method":"xpath","selector":"//a[text()='Õº∆¨']"}
+Command duration or timeout: 30.34 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'ShengJie-L', ip: '10.0.30.4', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=//a[text()='Õº∆¨']}
+Session ID: c8e2547f-5ec4-4158-8804-9b8044f5c71b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=33.1.1}]
+2015-12-22 17:54:58 - ==============================
+2015-12-22 17:54:58 - Current URL: http://map.baidu.com/
+2015-12-22 17:54:58 - Error Screenshot:result\2015-12-22 17-53-36\Screenshot\2015-12-22 17-54-58.png
+2015-12-22 17:54:58 - ==============================
+2015-12-22 17:54:58 - WebElement not found, Could not operate on an not existing element!
+2015-12-22 17:55:02 - =================Start=================
+2015-12-22 17:55:26 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:–¬Œ≈}]
+2015-12-22 17:55:36 - =================Done=================

@@ -1,0 +1,4 @@
+2015-12-23 16:19:21 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:新闻}]
+2015-12-23 16:19:25 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:贴吧}]
+2015-12-23 16:19:36 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:音乐}]
+2015-12-23 16:19:50 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:视频}]

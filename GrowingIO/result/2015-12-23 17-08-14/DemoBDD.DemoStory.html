@@ -1,0 +1,37 @@
+<div class="story">
+<h1></h1>
+<div class="path">DemoBDD/DemoStory.story</div>
+<div class="narrative"><h2>Narrative:</h2>
+<div class="element inOrderTo"><span class="keyword inOrderTo">In order to</span> communicate effectively to the business some functionality</div>
+<div class="element asA"><span class="keyword asA">As a</span> development team</div>
+<div class="element iWantTo"><span class="keyword iWantTo">I want to</span> use Behaviour-Driven Development</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Test Baidu</h2>
+<div class="examples">
+<h3>Examples:</h3>
+<div class="step">Given I have opend  '$BROWSER'</div>
+<div class="step">When I forward to '$URL'</div>
+<div class="step">Then the browser title shoule be '$TITLE'</div>
+<table>
+<thead>
+<tr>
+<th>BROWSER</th><th>URL</th><th>TITLE</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Firefox</td><td>http://www.baidu.com</td><td>&#30334;&#24230;&#19968;&#19979;&#65292;&#20320;&#23601;&#30693;&#36947;</td></tr>
+</tbody>
+</table>
+
+<h3 class="example">Example: {BROWSER=Firefox, URL=http://www.baidu.com, TITLE=&#30334;&#24230;&#19968;&#19979;&#65292;&#20320;&#23601;&#30693;&#36947;}</h3>
+<div class="step failed">Given I have opend  '$BROWSER' <span class="keyword failed">(FAILED)</span><br/><span class="message failed">org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '10.0.30.25', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: RemoteWebDriver</span></div>
+<div class="step notPerformed">When I forward to '$URL' <span class="keyword notPerformed">(NOT PERFORMED)</span></div>
+<div class="step notPerformed">Then the browser title shoule be '$TITLE' <span class="keyword notPerformed">(NOT PERFORMED)</span></div>
+</div>
+</div>
+<div class="step failed">DemoBDD.TestBase.afterStory() <span class="keyword failed">(FAILED)</span><br/><span class="message failed">org.jbehave.core.failures.BeforeOrAfterFailed: Method afterStory (annotated with @AfterStory in class DemoBDD.TestBase) failed: java.lang.NullPointerException</span></div>
+</div>

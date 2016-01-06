@@ -1,0 +1,28 @@
+2016-01-05 15:15:28 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2016-01-05 15:15:29 - [Send Keys] - [support2@growingio.com] - [{TagName:input}; {ID:email}; {Text:}]
+2016-01-05 15:15:29 - [Send Keys] - [yidongqa] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-05 15:15:29 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-05 15:15:40 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:概览}]
+2016-01-05 15:15:43 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:全 部}]
+2016-01-05 15:15:44 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:网 页}]
+2016-01-05 15:15:44 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:移动APP}]
+2016-01-05 15:15:44 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:iOS}]
+2016-01-05 15:15:44 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:Android}]
+2016-01-05 15:15:44 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:平均访问时长
+7天总量3.69分3.84%}]
+2016-01-05 15:15:45 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:新访问用户量
+7天总量15k}]
+2016-01-05 15:15:46 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:日活跃用户数
+7天总量64.1k2.22%}]
+2016-01-05 15:15:46 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:APP打开次数
+7天总量4.05M7.8%}]
+2016-01-05 15:15:47 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:28天}]
+2016-01-05 15:15:48 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:14天}]
+2016-01-05 15:15:50 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:7天}]
+2016-01-05 15:15:52 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:我的订阅}]
+2016-01-05 15:15:58 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-05 15:15:58 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:创建时间}]
+2016-01-05 15:16:03 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-05 15:16:04 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:名称}]
+2016-01-05 15:16:09 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-05 15:16:09 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:更新时间}]

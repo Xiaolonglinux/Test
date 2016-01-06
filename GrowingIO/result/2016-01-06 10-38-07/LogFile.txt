@@ -1,0 +1,53 @@
+2016-01-06 10:39:27 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2016-01-06 10:39:28 - [Send Keys] - [support2@growingio.com] - [{TagName:input}; {ID:email}; {Text:}]
+2016-01-06 10:39:28 - [Send Keys] - [yidongqa] - [{TagName:input}; {ID:}; {Text:}]
+2016-01-06 10:39:28 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2016-01-06 10:39:33 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:概览}]
+2016-01-06 10:39:35 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:全 部}]
+2016-01-06 10:39:35 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:网 页}]
+2016-01-06 10:39:36 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:移动APP}]
+2016-01-06 10:39:36 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:iOS}]
+2016-01-06 10:39:36 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:Android}]
+2016-01-06 10:39:37 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:平均访问时长
+7天总量1.58分}]
+2016-01-06 10:39:38 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:新访问用户量
+7天总量2}]
+2016-01-06 10:39:38 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:日活跃用户数
+7天总量4}]
+2016-01-06 10:39:39 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:APP打开次数
+7天总量273}]
+2016-01-06 10:39:40 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:28天}]
+2016-01-06 10:39:45 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:14天}]
+2016-01-06 10:39:46 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:7天}]
+2016-01-06 10:39:47 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:我的订阅}]
+2016-01-06 10:39:49 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-06 10:39:49 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:创建时间}]
+2016-01-06 10:39:49 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-06 10:39:50 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:名称}]
+2016-01-06 10:39:50 - [Click] - [null] - [{TagName:a}; {ID:charts-sort}; {Text:}]
+2016-01-06 10:39:50 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:更新时间}]
+2016-01-06 10:39:50 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2016-01-06 10:39:51 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:今天}]
+2016-01-06 10:39:56 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2016-01-06 10:39:57 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:昨天}]
+2016-01-06 10:40:02 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2016-01-06 10:40:03 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:过去 7 天}]
+2016-01-06 10:40:08 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2016-01-06 10:40:09 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:过去 14 天}]
+2016-01-06 10:40:14 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2016-01-06 10:40:15 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:过去 30 天}]
+2016-01-06 10:40:15 - [Click] - [null] - [{TagName:li}; {ID:}; {Text:单图}]
+2016-01-06 10:40:46 - Unable to locate element: {"method":"xpath","selector":".//*[@id='viewport']/div[2]/div/div[2]/div[2]/div[1]"}
+Command duration or timeout: 30.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.92', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=.//*[@id='viewport']/div[2]/div/div[2]/div[2]/div[1]}
+Session ID: 725f63a0-b52a-47fa-ae75-91d3675d74c8
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2016-01-06 10:40:46 - ==============================
+2016-01-06 10:40:46 - Current URL: https://www.growingio.com/projects/nxogV1Pm/charts/all
+2016-01-06 10:40:46 - Error Screenshot:result\2016-01-06 10-38-07\Screenshot\2016-01-06 10-40-46.png
+2016-01-06 10:40:46 - ==============================
+2016-01-06 10:40:46 - WebElement not found, Could not operate on an not existing element!

@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Tue Dec 22 17:55:01 CST 2015
+threads=1
+total=84000
+threadAverage=84000
+DemoBDD/DemoStory.story=84000

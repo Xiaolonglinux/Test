@@ -1,0 +1,22 @@
+2015-12-22 11:44:22 - =================Start=================
+2015-12-22 11:44:46 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:新闻}]
+2015-12-22 11:44:56 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:贴吧}]
+2015-12-22 11:45:08 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:音乐}]
+2015-12-22 11:45:16 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:视频}]
+2015-12-22 11:47:48 - Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'ShengJie-L', ip: '10.0.30.4', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=//a[text()='地图']}
+Session ID: cbfba39e-19ca-472e-8de4-a5222923123d
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=11, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=true, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:37868/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2015-12-22 11:47:48 - ==============================
+2015-12-22 11:47:48 - Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'ShengJie-L', ip: '10.0.30.4', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: cbfba39e-19ca-472e-8de4-a5222923123d
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, elementScrollBehavior=0, ignoreZoomSetting=false, enablePersistentHover=true, ie.ensureCleanSession=false, browserName=internet explorer, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss, version=11, ie.usePerProcessProxy=false, ignoreProtectedModeSettings=true, cssSelectorsEnabled=true, requireWindowFocus=false, initialBrowserUrl=http://localhost:37868/, handlesAlerts=true, ie.forceCreateProcessApi=false, nativeEvents=true, browserAttachTimeout=0, ie.browserCommandLineSwitches=, takesScreenshot=true}]
+2015-12-22 11:47:50 - =================Done=================

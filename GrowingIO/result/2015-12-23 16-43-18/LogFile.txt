@@ -1,0 +1,16 @@
+2015-12-23 16:44:52 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:新闻}]
+2015-12-23 16:44:57 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:贴吧}]
+2015-12-23 16:45:02 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:音乐}]
+2015-12-23 16:45:02 - Window not found. The browser window may have been closed.
+Command duration or timeout: 27 milliseconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '10.0.30.25', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=//a[text()='视频']}
+Session ID: 2f283ca2-039b-41bd-9e5f-800ec47967f0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-23 16:45:02 - ==============================
+2015-12-23 16:45:04 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '10.0.30.25', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+Driver info: driver.version: FirefoxDriver

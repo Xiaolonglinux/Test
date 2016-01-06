@@ -1,0 +1,33 @@
+<div class="story">
+<h1></h1>
+<div class="path">DemoBDD/DemoStory.story</div>
+<div class="narrative"><h2>Narrative:</h2>
+<div class="element inOrderTo"><span class="keyword inOrderTo">In order to</span> communicate effectively to the business some functionality</div>
+<div class="element asA"><span class="keyword asA">As a</span> development team</div>
+<div class="element iWantTo"><span class="keyword iWantTo">I want to</span> use Behaviour-Driven Development</div>
+</div>
+<div class="scenario">
+<h2>Scenario: Test Baidu</h2>
+<div class="examples">
+<h3>Examples:</h3>
+<div class="step">Given I have opend '$BROWSER'</div>
+<div class="step">When I forward to '$URL'</div>
+<div class="step">Then the browser title shoule be '$TITLE'</div>
+<table>
+<thead>
+<tr>
+<th>BROWSER</th><th>URL</th><th>TITLE</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Firefox</td><td>http://www.baidu.com</td><td>&#30334;&#24230;&#19968;&#19979;&#65292;&#20320;&#23601;&#30693;&#36947;</td></tr>
+</tbody>
+</table>
+
+<h3 class="example">Example: {BROWSER=Firefox, URL=http://www.baidu.com, TITLE=&#30334;&#24230;&#19968;&#19979;&#65292;&#20320;&#23601;&#30693;&#36947;}</h3>
+<div class="step successful">Given I have opend '$BROWSER'</div>
+<div class="step successful">When I forward to '$URL'</div>
+<div class="step failed">Then the browser title shoule be '$TITLE' <span class="keyword failed">(FAILED)</span><br/><span class="message failed">java.lang.Exception: WebElement not found, Could not operate on an not existing element!</span></div>
+</div>
+</div>
+</div>
