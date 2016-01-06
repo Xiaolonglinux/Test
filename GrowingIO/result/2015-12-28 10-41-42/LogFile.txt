@@ -1,0 +1,4 @@
+2015-12-28 10:43:20 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-28 10:43:21 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-28 10:43:22 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 10:43:22 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]

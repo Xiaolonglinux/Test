@@ -1,0 +1,7 @@
+2015-12-24 11:30:53 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-24 11:30:54 - [Send Keys] - [support2@growingio.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-24 11:30:54 - [Send Keys] - [yidongqa] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-24 11:30:54 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-24 11:31:04 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:Admin
+support2}]
+2015-12-24 11:31:07 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:项目管理}]

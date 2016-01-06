@@ -1,0 +1,56 @@
+2015-12-28 19:31:51 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2015-12-28 19:31:52 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2015-12-28 19:31:54 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:31:54 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:31:54 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:31:55 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:31:56 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2015-12-28 19:31:59 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2015-12-28 19:32:02 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2015-12-28 19:32:04 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2015-12-28 19:32:05 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2015-12-28 19:32:05 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2015-12-28 19:32:06 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2015-12-28 19:32:07 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2015-12-28 19:32:09 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2015-12-28 19:32:11 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:32:11 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:32:12 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:32:13 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:32:13 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:32:15 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2015-12-28 19:32:15 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-28 19:32:17 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-28 19:32:17 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:32:17 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-28 19:32:19 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-28 19:32:21 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:32:21 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2015-12-28 19:32:56 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2015-12-28 19:32:56 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2015-12-28 19:32:56 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:33:01 - [Text] - [https://www.growingio.com/passwords/h0TkSXgbQHTea7C6  ] - [{TagName:div}; {ID:}; {Text:https://www.growingio.com/passwords/h0TkSXgbQHTea7C6  }]
+2015-12-28 19:33:02 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:33:02 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:33:02 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:重设密码}]
+2015-12-28 19:33:03 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-28 19:33:04 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:33:04 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-28 19:33:07 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:小龙Test
+一线员工}]
+2015-12-28 19:33:09 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:项目管理}]
+2015-12-28 19:33:10 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:邀请成员}]
+2015-12-28 19:33:40 - Unable to locate element: {"method":"xpath","selector":"html/body/div[3]/div/div[2]/div/div/div[2]/textarea"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=html/body/div[3]/div/div[2]/div/div/div[2]/textarea}
+Session ID: 0cbd6932-bbac-4c2e-9ecb-c43c0a9091dd
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-28 19:33:40 - ==============================
+2015-12-28 19:33:40 - Current URL: https://www.growingio.com/admin/projects
+2015-12-28 19:33:40 - Error Screenshot:result\2015-12-28 19-30-42\Screenshot\2015-12-28 19-33-40.png
+2015-12-28 19:33:40 - ==============================
+2015-12-28 19:33:40 - WebElement not found, Could not operate on an not existing element!

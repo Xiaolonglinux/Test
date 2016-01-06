@@ -1,0 +1,19 @@
+2015-12-27 22:53:47 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2015-12-27 22:53:48 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-27 22:53:49 - [Send Keys] - [abbyhezhang@shinyway.com.cn] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-27 22:53:49 - [Send Keys] - [abby] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-27 22:53:49 - [Send Keys] - [zh19930215] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-27 22:54:19 - Unable to locate element: {"method":"xpath","selector":"//button[text()='申请试用1111']"}
+Command duration or timeout: 30.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.1.104', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=//button[text()='申请试用1111']}
+Session ID: e52ef7be-37d3-40ef-997f-b475997a8043
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-27 22:54:19 - ==============================
+2015-12-27 22:54:20 - Current URL: https://www.growingio.com/signup
+2015-12-27 22:54:20 - Error Screenshot:result\2015-12-27 22-52-51\Screenshot\2015-12-27 22-54-19.png
+2015-12-27 22:54:20 - ==============================
+2015-12-27 22:54:20 - WebElement not found, Could not operate on an not existing element!

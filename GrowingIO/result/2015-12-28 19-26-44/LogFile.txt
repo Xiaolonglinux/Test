@@ -1,0 +1,47 @@
+2015-12-28 19:28:26 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2015-12-28 19:28:26 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2015-12-28 19:28:27 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:27 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:27 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:28 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:28:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2015-12-28 19:28:31 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2015-12-28 19:28:33 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2015-12-28 19:28:35 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2015-12-28 19:28:35 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2015-12-28 19:28:35 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2015-12-28 19:28:36 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2015-12-28 19:28:36 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2015-12-28 19:28:37 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2015-12-28 19:28:38 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:39 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:39 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:40 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:40 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:28:41 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2015-12-28 19:28:42 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-28 19:28:44 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-28 19:28:44 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:44 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-28 19:28:46 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-28 19:28:48 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:28:48 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2015-12-28 19:29:22 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2015-12-28 19:29:23 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2015-12-28 19:29:23 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:29:27 - [Text] - [https://www.growingio.com/passwords/z2LO1mueUuxpyRhw  ] - [{TagName:div}; {ID:}; {Text:https://www.growingio.com/passwords/z2LO1mueUuxpyRhw  }]
+2015-12-28 19:29:32 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:30:03 - Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/div/div/div/form/div[2]/input"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=html/body/div[1]/div/div/div/form/div[2]/input}
+Session ID: c9f93f4c-5d7c-4b7d-adb5-c3bf29985ad4
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-28 19:30:03 - ==============================
+2015-12-28 19:30:06 - Current URL: https://www.growingio.com/
+2015-12-28 19:30:06 - Error Screenshot:result\2015-12-28 19-26-44\Screenshot\2015-12-28 19-30-03.png
+2015-12-28 19:30:06 - ==============================
+2015-12-28 19:30:06 - WebElement not found, Could not operate on an not existing element!

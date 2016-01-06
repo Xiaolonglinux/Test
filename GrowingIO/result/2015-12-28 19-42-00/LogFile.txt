@@ -1,0 +1,58 @@
+2015-12-28 19:43:20 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2015-12-28 19:43:20 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2015-12-28 19:43:21 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:21 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:21 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:22 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:43:23 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2015-12-28 19:43:24 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2015-12-28 19:43:27 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2015-12-28 19:43:28 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2015-12-28 19:43:28 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2015-12-28 19:43:28 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2015-12-28 19:43:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2015-12-28 19:43:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2015-12-28 19:43:30 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2015-12-28 19:43:31 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:32 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:32 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:32 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:32 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:43:33 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2015-12-28 19:43:34 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-28 19:43:35 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-28 19:43:35 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:35 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-28 19:43:36 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-28 19:43:37 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:43:37 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2015-12-28 19:44:10 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2015-12-28 19:44:11 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2015-12-28 19:44:11 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:44:14 - [Text] - [https://www.growingio.com/passwords/61dsvWkTGDLYvwQb  ] - [{TagName:div}; {ID:}; {Text:https://www.growingio.com/passwords/61dsvWkTGDLYvwQb  }]
+2015-12-28 19:44:15 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:44:15 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:44:15 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:重设密码}]
+2015-12-28 19:44:16 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-28 19:44:17 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:44:17 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-28 19:44:19 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:小龙Test
+一线员工}]
+2015-12-28 19:44:21 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:项目管理}]
+2015-12-28 19:44:22 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:邀请成员}]
+2015-12-28 19:44:22 - [Send Keys] - [781902356@qq.com;1849012501@qq.com] - [{TagName:textarea}; {ID:}; {Text:}]
+2015-12-28 19:44:23 - The given selector submit btn btn-primary is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Compound class names not permitted
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=class name, value=submit btn btn-primary}
+Session ID: f215e136-9070-41c9-af81-07cad43e3f21
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-28 19:44:23 - ==============================
+2015-12-28 19:44:23 - Current URL: https://www.growingio.com/admin/projects
+2015-12-28 19:44:23 - Error Screenshot:result\2015-12-28 19-42-00\Screenshot\2015-12-28 19-44-23.png
+2015-12-28 19:44:23 - ==============================
+2015-12-28 19:44:23 - WebElement not found, Could not operate on an not existing element!

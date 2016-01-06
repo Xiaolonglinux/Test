@@ -1,0 +1,22 @@
+2015-12-28 11:37:37 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-28 11:37:38 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-28 11:37:39 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 11:37:39 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2015-12-28 11:37:51 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2015-12-28 11:37:52 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2015-12-28 11:37:52 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 11:37:54 - [Click] - [null] - [{TagName:span}; {ID:}; {Text:重设密码}]
+2015-12-28 11:38:24 - Unable to locate element: {"method":"name","selector":"password"}
+Command duration or timeout: 30.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=name, value=password}
+Session ID: 5eed1c3f-0f1b-4444-8463-d47f75579465
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-28 11:38:24 - ==============================
+2015-12-28 11:38:24 - Current URL: https://email.dilatoit.com/owa/
+2015-12-28 11:38:24 - Error Screenshot:result\2015-12-28 11-37-11\Screenshot\2015-12-28 11-38-24.png
+2015-12-28 11:38:24 - ==============================
+2015-12-28 11:38:24 - WebElement not found, Could not operate on an not existing element!

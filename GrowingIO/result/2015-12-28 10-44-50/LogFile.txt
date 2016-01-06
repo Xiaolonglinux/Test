@@ -1,0 +1,22 @@
+2015-12-28 10:46:29 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-28 10:46:30 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-28 10:46:31 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 10:46:31 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2015-12-28 10:46:33 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2015-12-28 10:46:33 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2015-12-28 10:46:34 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 10:46:36 - [Click] - [null] - [{TagName:span}; {ID:}; {Text:重设密码}]
+2015-12-28 10:47:06 - Unable to locate element: {"method":"xpath","selector":"html/body/div[1]/div/div/div/form/div[1]/input"}
+Command duration or timeout: 30.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=html/body/div[1]/div/div/div/form/div[1]/input}
+Session ID: 7dbd0e78-0f81-4ff1-8023-4cd6e3634071
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-28 10:47:06 - ==============================
+2015-12-28 10:47:07 - Current URL: https://email.dilatoit.com/owa/
+2015-12-28 10:47:07 - Error Screenshot:result\2015-12-28 10-44-50\Screenshot\2015-12-28 10-47-06.png
+2015-12-28 10:47:07 - ==============================
+2015-12-28 10:47:07 - WebElement not found, Could not operate on an not existing element!

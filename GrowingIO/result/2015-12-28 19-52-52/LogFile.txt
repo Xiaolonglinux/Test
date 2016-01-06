@@ -1,0 +1,60 @@
+2015-12-28 19:54:17 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品特色}]
+2015-12-28 19:54:17 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:}]
+2015-12-28 19:54:18 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:18 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:18 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:18 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:54:19 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:技术论坛}]
+2015-12-28 19:54:22 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:}]
+2015-12-28 19:54:24 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:加入我们}]
+2015-12-28 19:54:25 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:研发部}]
+2015-12-28 19:54:25 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:数据分析部}]
+2015-12-28 19:54:26 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:产品部}]
+2015-12-28 19:54:26 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:市场部}]
+2015-12-28 19:54:26 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:关于我们}]
+2015-12-28 19:54:27 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:申请试用}]
+2015-12-28 19:54:29 - [Send Keys] - [15701007635] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:29 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:29 - [Send Keys] - [test] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:29 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:30 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:申请试用}]
+2015-12-28 19:54:31 - [Text] - [该邮箱已存在] - [{TagName:div}; {ID:}; {Text:该邮箱已存在}]
+2015-12-28 19:54:31 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:登录}]
+2015-12-28 19:54:32 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-28 19:54:32 - [Send Keys] - [testtest] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:32 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-28 19:54:33 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:忘记密码}]
+2015-12-28 19:54:35 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:54:35 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:发送}]
+2015-12-28 19:55:08 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:username}; {Text:}]
+2015-12-28 19:55:09 - [Send Keys] - [7mK939D*] - [{TagName:input}; {ID:password}; {Text:}]
+2015-12-28 19:55:09 - [Click] - [null] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:55:13 - [Text] - [https://www.growingio.com/passwords/CMWXSqfhXVI547x6  ] - [{TagName:div}; {ID:}; {Text:https://www.growingio.com/passwords/CMWXSqfhXVI547x6  }]
+2015-12-28 19:55:13 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:55:14 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:55:14 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:重设密码}]
+2015-12-28 19:55:15 - [Send Keys] - [xiaolong.chen@Dilatoit.com] - [{TagName:input}; {ID:email}; {Text:}]
+2015-12-28 19:55:15 - [Send Keys] - [123456] - [{TagName:input}; {ID:}; {Text:}]
+2015-12-28 19:55:15 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:登 录}]
+2015-12-28 19:55:18 - [Click] - [null] - [{TagName:div}; {ID:}; {Text:小龙Test
+一线员工}]
+2015-12-28 19:55:20 - [Click] - [null] - [{TagName:a}; {ID:}; {Text:项目管理}]
+2015-12-28 19:55:21 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:邀请成员}]
+2015-12-28 19:55:21 - [Send Keys] - [781902356@qq.com;1849012501@qq.com] - [{TagName:textarea}; {ID:}; {Text:}]
+2015-12-28 19:55:22 - [Click] - [null] - [{TagName:button}; {ID:}; {Text:下一步}]
+2015-12-28 19:55:22 - The given selector  is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression  because of the following error:
+SyntaxError: The expression is not a legal expression.
+Command duration or timeout: 44 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'DYD-20151207VJX', ip: '192.168.30.189', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_79'
+*** Element info: {Using=xpath, value=}
+Session ID: 499ec899-153d-4eb2-b42c-e3043e661065
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.1}]
+2015-12-28 19:55:22 - ==============================
+2015-12-28 19:55:22 - Current URL: https://www.growingio.com/admin/projects
+2015-12-28 19:55:22 - Error Screenshot:result\2015-12-28 19-52-52\Screenshot\2015-12-28 19-55-22.png
+2015-12-28 19:55:22 - ==============================
+2015-12-28 19:55:22 - WebElement not found, Could not operate on an not existing element!
