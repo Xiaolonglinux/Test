@@ -1,6 +1,0 @@
-#org.jbehave.core.embedder.StoryManager
-#Wed Dec 30 14:23:32 CST 2015
-threads=1
-total=158000
-threadAverage=158000
-growingIOTestcase1/GrowingIoStory.story=158000
